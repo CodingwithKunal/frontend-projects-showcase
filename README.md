@@ -19,7 +19,8 @@ A pixel-perfect front-end recreation of the Instagram mobile home page, built us
 ## 📸 Screenshots
 
 ### 🔹 Post with Like Animation
-![Like Animation](assets/screenshot1.png)
+(https://github.com/user-attachments/assets/4ca56667-1b9e-4afe-8ba0-36fa8aa87a76)
+
 
 ### 🔹 Instagram Feed UI
-![Instagram Feed](assets/screenshot2.png)
+
