@@ -1,8 +1,45 @@
-# React + Vite
+# 🛒  - React E-Commerce Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A stylish, responsive e-commerce web application built with React, Redux, Vite, and integrated with the [FakeStoreAPI](https://fakestoreapi.com/). Users can browse products by category, view details, and add items to the cart — all with a clean and modern UI using MUI (Material UI) and Bootstrap.
 
-Currently, two official plugins are available:
+## 🧰 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚛️ React 18
+- 🔥 Redux Toolkit for state management
+- 🚀 Vite (fast dev & build tool)
+- 🧩 React Router DOM
+- 🧾 Axios for API calls
+- 🧠 FakeStore API integration
+- 💅 Styled-Components + Bootstrap + MUI for UI
+- 🔔 `react-hot-toast` for notifications
+- 📦 `gh-pages` for deployment
+
+## 🧑‍💻 Features
+
+- 👨‍💼 User-friendly responsive layout
+- 📦 View products from FakeStore API
+- 🧭 Category filter with dropdown
+- 🛒 Add to Cart functionality with Redux
+- 👁 View product details dynamically
+- 📢 Toast notifications on actions
+- 📱 Mobile-first responsive design
+- 🌐 Page Routing
+
+## 📸 Screenshots
+![Home Page](screenshots/home.png)  
+> ![Product Details](screenshots/product-details.png)
+
+## 🛠️ Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/CodingwithKunal/frontend-practice-hub.git
+
+# Navigate into the project directory
+cd file name 
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
