@@ -1,45 +1,39 @@
-# Front-End Projects by Kunal Verma 🚀
+# 🍕 Food Order App (JavaScript  Project)
 
-Welcome to my collection of front-end web development projects! These showcase my journey and skills as a Frontend Developer with a strong foundation in HTML, CSS, JavaScript, React, GSAP, and more.
+This is a beginner-friendly food ordering web app created using HTML and JavaScript. The project simulates a console-based interaction where a user can:
 
----
+- Create an account
+- Log in using credentials
+- Add money to a wallet
+- Select pizza size and type
+- Purchase a pizza if the wallet balance is sufficient
 
-## 👨‍💻 About Me
+## 🚀 Features
 
-I'm Kunal Verma, an enthusiastic and results-driven Frontend Developer passionate about building user-friendly and engaging web interfaces. I’m currently expanding my expertise into Full-Stack Development, with a focus on integrating AI-powered features into real-world applications.
+- User authentication via `prompt()`
+- Wallet balance management
+- Pizza ordering system with:
+  - Size-based pricing (`small` vs. `large`)
+  - Different pizza types (Cheese, Chicken, Paneer)
+- Conditional checks for wallet balance
+- Fully interactive via browser console
 
-📍 Based in New Delhi, India  
-📫 [kvcoder22@gmail.com](mailto:kvcoder22@gmail.com)  
-🔗 [LinkedIn Profile](https://linkedin.com/in/kunal-verma-2676242b2)
+- ## 🛠️ Tech Stack
 
----
+- HTML
+- JavaScript (Vanilla JS, `prompt()`, `console.log()` based interaction)
 
-## 🧠 Skills Highlighted in These Projects
+## 💡 How to Run
 
-- HTML5 / CSS3 / Bootstrap
-- JavaScript (ES6+)
-- React & ReactJS
-- Fetch API & Authentication
-- GSAP (GreenSock Animation)
-- Redux Toolkit (RTK)
-- GitHub & Git Workflow
+1. Download or clone the repository.
+2. Open the `FoodOrderJS udemy.html` file in any modern browser (preferably Chrome).
+3. Open the **developer console** (Right-click → Inspect → Console).
+4. Follow the prompts to create an account, add money, and order pizza.
 
----
+## 📚 Learning Outcome
 
-## 📁 Featured Projects
-
-1. **🛒 E-Commerce Frontend Project
-   - A shopping website built using React and Redux .
-2. **🎨 Minor Animated Frontend Website**
-   - Focused on GSAP animations and smooth user experiences with dynamic responsive design.
-
-(Include more project go and check them !)
-
----
-
-## ⚙️ How to Run the Projects
-
-```bash
-git clone https://github.com/CodingwithKunal/Front_end_Projects.git
-cd Front_end_Projects
-# Open any project folder and launch index.html in your browser
+This project helped understand:
+- How to use `prompt()` and `console.log()` for user interaction
+- Basic conditional logic
+- Working with arrays and variables
+- Control flow using loops (`do...while`)
