@@ -26,8 +26,8 @@ A stylish, responsive e-commerce web application built with React, Redux, Vite, 
 - 🌐 Page Routing
 
 ## 📸 Screenshots
-![Home Page](screenshots/home.png)  
-> ![Product Details](screenshots/product-details.png)
+> ![Product Details](https://github.com/user-attachments/assets/8bdfb721-6cb8-4da3-b2af-f7b2af23be67)
+> ![Cart Page](https://github.com/user-attachments/assets/337b2952-b55a-436c-9f74-c7e7d28b939e)
 
 ## 🛠️ Installation
 
